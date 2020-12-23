@@ -1,5 +1,6 @@
 
 # Desain Analisis Algoritma
+## Muhammad Defaroyan
 
 ## SOAL 1
 
